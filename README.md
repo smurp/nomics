@@ -1,4 +1,4 @@
-# Nomics
+# Nomic Rulesets
 
 This is just a simple collection of [Nomic](https://en.wikipedia.org/wiki/Nomic) rulesets.  Ideally they would be better formatted for printing.
 
